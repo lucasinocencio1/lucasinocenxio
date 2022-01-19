@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @lucasinocenxio
-- 👀 I’m interested in learn about software development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💻 I’m interested in learn about software development.
+- 📍 Lisbon
 
 <!---
 lucasinocenxio/lucasinocenxio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
